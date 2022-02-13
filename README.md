@@ -11,5 +11,6 @@
 - **F11**
 - ALT + ENTER
 
+![image](https://user-images.githubusercontent.com/89338401/153742023-a01ab2f9-7f2c-47d1-a515-0b7699ccb6f0.png)
 
 
