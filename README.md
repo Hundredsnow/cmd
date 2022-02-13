@@ -10,6 +10,7 @@
 ## 全画面表示のショートカット
 - **F11**
 - ALT + ENTER
+- Ctrl + マウスホールでフォントサイズ変更
 
 ## オプションのデフォルト
 ![image](https://user-images.githubusercontent.com/89338401/153742023-a01ab2f9-7f2c-47d1-a515-0b7699ccb6f0.png)
