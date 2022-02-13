@@ -5,6 +5,7 @@
  - スペースキーで1ページづつ
  - ENTERキーで1行づつ
  - CTRL + Cで強制終了
+ - 
 ```
 dir c:\windows\system32 | more
 ```
