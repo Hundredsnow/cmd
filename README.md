@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/89338401/153741729-81f04e4a-62d1-4039-8c9e-7693ea45d0da.png)
 
 ## 全画面表示のショートカット
-- *F11*
+- **F11**
 - ALT + ENTER
 
 
